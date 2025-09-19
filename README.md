@@ -1,5 +1,4 @@
-[Հրավիրատոմս.html](https://github.com/user-attachments/files/22421724/default.html)
-<!DOCTYPE html>
+
 <html lang="hy">
 <head>
   <meta charset="UTF-8">
